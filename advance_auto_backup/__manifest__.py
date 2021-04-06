@@ -35,4 +35,7 @@ Automatic backup for all such configured databases can then be scheduled as foll
         'views/templates/auto_backup_mail_templates.xml',
         'data/backup_data.xml',
     ],
+    'images': ['static/description/main_screenshot.jpg'],
+    'live_test_url': 'https://www.youtube.com/watch?v=qxdZzalz-3w',
+
 }
